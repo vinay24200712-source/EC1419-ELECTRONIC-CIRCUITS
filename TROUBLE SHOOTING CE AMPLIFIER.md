@@ -15,7 +15,8 @@
 
 
 RESULT:
-The troubleshooting the common emitter amplifier was succesufully completed and the following results are observed 1: gain of the amplifier =6.8dB
+The troubleshooting the common emitter amplifier was succesufully completed and the following results are observed 
+ 1: gain of the amplifier =6.8dB
  2 : bandwidth of the amplifier =9.9khz 
  3: gain bandwidth poduct =219khz
 
