@@ -28,10 +28,11 @@
 
 ## Graph
 
+![WhatsApp Image 2026-03-27 at 20 46 34](https://github.com/user-attachments/assets/492da43d-3149-47c8-9c23-b6362193b7e3)
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
-**VOLTAGE GAIN =**
+**VOLTAGE GAIN = 15dB 
 
-**BANDWIDTH =**
+**BANDWIDTH = 69.9MHZ
