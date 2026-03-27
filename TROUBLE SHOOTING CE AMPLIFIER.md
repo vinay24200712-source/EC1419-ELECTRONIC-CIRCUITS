@@ -13,6 +13,7 @@
 ![WhatsApp Image 2026-03-27 at 21 36 55 (1)](https://github.com/user-attachments/assets/8106ad28-089f-459f-9b39-3876d4668720)
 
 
+
 RESULT:
 The troubleshooting the common emitter amplifier was succesufully completed and the following results are observed 
  1: gain of the amplifier =6.8dB
