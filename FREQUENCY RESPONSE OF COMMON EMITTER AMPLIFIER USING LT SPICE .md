@@ -24,9 +24,10 @@
 <img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/35db161e-e8a3-4438-a25d-7849c15ee08e" />
 <img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/47c2cdf5-9004-4e0f-89d0-c9eda45cf64c" />
 
+![WhatsApp Image 2026-03-28 at 14 29 54](https://github.com/user-attachments/assets/20ef4db2-4344-4b0f-8742-9b7d8c585e99)
+
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
 
-![WhatsApp Image 2026-03-28 at 14 29 54](https://github.com/user-attachments/assets/7483c605-976a-41e4-a40f-642e4c84eb77)
 
 ## Tabulation
 
@@ -36,7 +37,9 @@
 
 ![WhatsApp Image 2026-03-27 at 20 46 34](https://github.com/user-attachments/assets/492da43d-3149-47c8-9c23-b6362193b7e3)
 
-## **Result**
+result :
+![WhatsApp Image 2026-03-28 at 14 36 39](https://github.com/user-attachments/assets/32567b77-e142-4d53-bc71-7e4664dc5f6e)
+
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
 **VOLTAGE GAIN = 15dB 
