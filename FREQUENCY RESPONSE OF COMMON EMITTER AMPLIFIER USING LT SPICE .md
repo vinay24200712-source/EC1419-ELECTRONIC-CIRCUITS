@@ -15,6 +15,7 @@
 ## CIRCUIT DIAGRAM
 
 <img width="538" height="384" alt="image" src="https://github.com/user-attachments/assets/7258c2db-4bc3-4a33-9dfb-6f0bc0749e62" />
+
 ![WhatsApp Image 2026-03-28 at 14 29 50](https://github.com/user-attachments/assets/00547e0a-d466-48a8-b7f6-10859c361ffd)
 
 
@@ -27,6 +28,7 @@
 ![WhatsApp Image 2026-03-28 at 14 29 54](https://github.com/user-attachments/assets/7483c605-976a-41e4-a40f-642e4c84eb77)
 
 ## Tabulation
+
 ![WhatsApp Image 2026-03-28 at 14 34 08](https://github.com/user-attachments/assets/9f9b8a92-ccb7-4bc7-86cf-ba3862981950)
 
 ## Graph
